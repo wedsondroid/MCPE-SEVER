@@ -1,0 +1,4 @@
+# Updated 10/18/17 10:57 by Genisys 80faae0
+# victim name | ban date | banned by | banned until | reason
+
+

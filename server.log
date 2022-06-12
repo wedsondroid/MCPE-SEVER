@@ -1,0 +1,10 @@
+2022-06-13 [02:00:31] [Server thread/NOTICE]: Player data not found for "cookie", creating new profile
+2022-06-13 [02:00:31] [Server thread/INFO]: Cookie[/192.168.0.101:53864] [ClientID: -7.6462139273579E+18] logged in with entity id 1 at (world, 149.5, 20, 121.5)
+2022-06-13 [02:00:33] [Server thread/INFO]: Cookie joined the game
+2022-06-13 [02:00:39] [Server thread/INFO]: Cookie left the game
+2022-06-13 [02:00:39] [Server thread/INFO]: Cookie[/192.168.0.101:53864] logged out due to client disconnect
+2022-06-13 [02:00:59] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2022-06-13 [02:00:59] [Server thread/INFO]: Disabling MagicWE v0.2.4.LucasGamer
+2022-06-13 [02:00:59] [Server thread/INFO]: Unloading level "world"
+2022-06-13 [02:01:00] [Server thread/INFO]: Unloading level "nether"
+2022-06-13 [02:01:05] [Server thread/INFO]: Stopping other threads
